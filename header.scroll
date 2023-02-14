@@ -1,0 +1,7 @@
+importOnly
+git https://github.com/breck7/brecksbananastand.com
+email job@brecksbananastand.com
+baseUrl https://brecksbananastand.com/
+metaTags
+scrollCssTag
+scrollHeader
