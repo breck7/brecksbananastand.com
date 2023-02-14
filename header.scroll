@@ -1,7 +1,7 @@
 importOnly
-git https://github.com/breck7/scroll
-email feedback@scroll.pub
-baseUrl https://scroll.pub/
+git https://github.com/breck7/brecksbananastand.com
+email job@brecksbananastand.com
+baseUrl https://brecksbananastand.com/
 metaTags
 scrollCssTag
 scrollHeader
