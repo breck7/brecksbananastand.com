@@ -17,6 +17,10 @@
  }
  .scrollFileViewSourceUrlComponent a {
   color: var(--mustard-yellow);
+  opacity: .2;
+ }
+ .big {
+  font-size: 200%;
  }
  a {
   color: var(--money-green);
