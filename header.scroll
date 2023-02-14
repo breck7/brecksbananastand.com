@@ -4,4 +4,25 @@ email job@brecksbananastand.com
 baseUrl https://brecksbananastand.com/
 metaTags
 scrollCssTag
-scrollHeader
+
+css
+ :root {
+  --dark-green: rgb(42,89,31);
+  --warm-green: rgb(85,186,127); 
+  --banana-yellow: rgb(255,255,84); 
+  --mustard-yellow: rgb(251,230,77); 
+  --money-green: rgb(128,172,62); 
+ }
+ html {
+   margin: 0;
+   padding: 0;
+   background-color: var(--dark-green);
+   color: var(--mustard-yellow);
+   font-size: 16px:
+ }
+ .scrollTitleComponent a {
+   color: var(--mustard-yellow);
+ }
+ 
+ 
+ 
